@@ -26,4 +26,4 @@ function initMap() {
             window.alert('Directions request failed due to ' + status);
           }
         });
-      }
+      } 
